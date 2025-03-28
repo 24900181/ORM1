@@ -37,8 +37,9 @@ from .models import Movie,MovieAdmin
 admin.site.register(Movie,MovieAdmin)
 ```
 # OUTPUT
+![Screenshot 2025-03-28 124645](https://github.com/user-attachments/assets/e3457719-b815-471c-814f-ea48692ab51c)
 
-![alt text](<Screenshot (1).png>)
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
